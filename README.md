@@ -1,1 +1,3 @@
-# assignment_SQL
+まずassignment_step2_instruction.mdを読み、テーブル作成後、データを挿入してください。 
+ 
+またstep3の課題はassignment_step3.mdに記載しました。
